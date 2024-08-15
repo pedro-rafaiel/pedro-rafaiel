@@ -13,7 +13,7 @@
 
 ## GitHub Stats
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedro-rafaiel&show_icons=true&hide_title=true&count_private=true&hide=prs&title_color=ff8c00&text_color=ffffff&icon_color=ff4500&bg_color=282c34)
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedro-rafaiel&show_icons=true&hide_title=true&count_private=true&hide=prs&title_color=56e24c&text_color=ffffff&icon_color=56e24c&bg_color=282c34)
 
-![Pedro's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rafaiel&hide=html,css&layout=compact&title_color=ff8c00&text_color=ffffff&icon_color=ff4500&bg_color=282c34)
+![Pedro's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rafaiel&hide=html,css&layout=compact&title_color=56e24c&text_color=ffffff&icon_color=41a839&bg_color=282c34)
 
