@@ -2,13 +2,18 @@
 
 ## About Me
 
-I'm a Computer Science student at the Federal University of Cariri (UFCA).
-
+- I'm a Computer Science student at the Federal University of Cariri (UFCA).
+- Fullstack Developer
 ## Languages Used
 
-![Languages Used](path/to/your/languages-image.png)
+![MongoDB](img/MongoDB.png)
+![JavaScript](img/js.png)
+![Python](img/Python.png)
+![Nodejs](img/node.png)
 
-## Contact
+## GitHub Stats
 
-Feel free to reach out to me if you want to collaborate or just connect!
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedro-rafaiel&show_icons=true&hide_title=true&count_private=true&hide=prs&title_color=ff8c00&text_color=ffffff&icon_color=ff4500&bg_color=282c34)
+
+![Pedro's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-rafaiel&hide=html,css&layout=compact&title_color=ff8c00&text_color=ffffff&icon_color=ff4500&bg_color=282c34)
 
