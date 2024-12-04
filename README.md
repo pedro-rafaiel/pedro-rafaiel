@@ -6,10 +6,14 @@
 - Fullstack Developer
 ## Languages Used
 
-![MongoDB](img/MongoDB.png)
+![React](img/react.svg)
 ![JavaScript](img/js.png)
 ![Python](img/Python.png)
+![C](img/C.svg)
 ![Nodejs](img/node.png)
+![MongoDB](img/MongoDB.png)
+![PostgreSQL](img/Postgre.svg)
+![MySQL](img/mysql.svg)
 
 ## GitHub Stats
 
