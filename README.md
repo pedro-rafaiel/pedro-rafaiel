@@ -2,7 +2,7 @@
 
 ## About Me
 
-- I'm a Computer Science student at the Federal University of Cariri (UFCA).
+- I'm a Computer Science student at the Universidade Federal do Cariri (UFCA).
 - Fullstack Developer
 ## Languages Used
 
