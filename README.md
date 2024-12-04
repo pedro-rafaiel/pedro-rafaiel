@@ -7,11 +7,11 @@
 ## Languages Used
 
 ![React](img/react.svg)
-![JavaScript](img/js.png)
-![Python](img/Python.png)
+![JavaScript](img/js.svg)
+![Python](img/python.svg)
 ![C](img/C.svg)
-![Nodejs](img/node.png)
-![MongoDB](img/MongoDB.png)
+![Nodejs](img/node.svg)
+![MongoDB](img/MongoDB.svg)
 ![PostgreSQL](img/Postgre.svg)
 ![MySQL](img/mysql.svg)
 
