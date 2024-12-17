@@ -16,6 +16,7 @@
 ![JavaScript](img/js.svg)
 ![Python](img/python.svg)
 ![C](img/C.svg)
+![C#](img/csharp.svg)
 ![Nodejs](img/node.svg)
 ![MongoDB](img/MongoDB.svg)
 ![PostgreSQL](img/Postgre.svg)
