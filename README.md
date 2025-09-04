@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=56E24C&center=false&vCenter=true&width=500&lines=Olá,+sou+Pedro+Rafael!;Desenvolvedor+Fullstack;Bem-vindo+ao+meu+GitHub!+👋)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=56E24C&center=false&vCenter=true&width=500&lines=Olá,+sou+Pedro+Rafael!;Desenvolvedor+Full+Stack;Bem-vindo+ao+meu+GitHub!+👋)
 
 
 🎓 Estudante de **Ciência da Computação** na [UFCA](https://www.ufca.edu.br/)  
