@@ -31,17 +31,7 @@ Atualmente, venho desenvolvendo projetos relacionados a:
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Linguagens
-![Python](img/python.svg)
-![JavaScript](img/js.svg)
-
-### Dados e Backend
-![Nodejs](img/node.svg)
-![PostgreSQL](img/Postgre.svg)
-![MySQL](img/mysql.svg)
-
-### Front-end
-![React](img/react.svg)
+**Python, SQL, AWS, Spark/PySpark, Airflow, Power BI, PostgreSQL, Git, GitHub, JavaScript e Node.js**
 
 ## 📌 Atualmente estudando
 
